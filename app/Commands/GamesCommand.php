@@ -4,6 +4,7 @@ namespace App\Commands;
 
 use App\Scores;
 use LaravelZero\Framework\Commands\Command;
+
 use function Termwind\live;
 
 class GamesCommand extends Command
